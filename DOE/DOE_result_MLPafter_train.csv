@@ -1,0 +1,6 @@
+﻿lookback,step,unit1,unit2,act1,act2,optimizer,batchSize,drop1,drop2
+288,2,512,128,tanh,relu,Adam,60,0,0
+288,2,512,128,tanh,relu,Adam,60,0,0
+288,2,512,128,tanh,relu,Adam,60,0,0
+288,2,512,128,tanh,relu,Adam,60,0,0
+288,2,512,128,tanh,relu,Adam,60,0,0
